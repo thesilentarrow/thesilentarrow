@@ -1,5 +1,5 @@
-## Hi there 👋
-
+love to work with emerging technologies and solve real world problems 🛠️. 
+currently working on machine learning applications.
 <!--
 **thesilentarrow/thesilentarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
